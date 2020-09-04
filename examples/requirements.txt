@@ -1,4 +1,0 @@
-kopf
-kubernetes
-pykube-ng
-pyyaml
