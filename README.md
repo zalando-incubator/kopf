@@ -1,3 +1,16 @@
+**This repository is suspended and not maintained.**
+
+It is kept in place for historic reference, so that all links remain valid,
+and the issues' & PRs' discussions are preserved for debugging & investigations.
+
+Kopf's development currently happens here:
+
+* https://github.com/nolar/kopf
+
+Please send new issues and pull requests there.
+
+---
+
 # Kubernetes Operator Pythonic Framework (Kopf)
 
 [![Build Status](https://travis-ci.org/zalando-incubator/kopf.svg?branch=master)](https://travis-ci.org/zalando-incubator/kopf)

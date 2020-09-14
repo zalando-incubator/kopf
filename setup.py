@@ -23,8 +23,8 @@ setup(
     long_description_content_type='text/markdown',
     author='Sergey Vasilyev',
     author_email='sergey.vasilyev@zalando.de',
-    maintainer='Sergey Vasilyev, Chiara Mezzavilla',
-    maintainer_email='sergey.vasilyev@zalando.de, chiara.mezzavilla@zalando.de',
+    maintainer='Sergey Vasilyev',
+    maintainer_email='sergey.vasilyev@zalando.de',
     keywords=['kubernetes', 'operator', 'framework', 'python', 'k8s'],
     license='MIT',
 
